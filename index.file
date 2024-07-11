@@ -1,0 +1,4 @@
+// jenkins pipeline of a code
+pipeline {
+    added node slave
+}
